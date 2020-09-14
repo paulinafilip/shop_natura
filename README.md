@@ -3,9 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -19,10 +17,6 @@ The aim of the project was to create a website for the interior design industry 
 * HTML 5
 * CSS 3
 * Bootstrap 4.5.2
-
-## Setup
-Open to "Live Server"
-
 ## Features
 In future:
 * add e-shop
