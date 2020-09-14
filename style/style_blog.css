@@ -1,0 +1,48 @@
+                        /* SECTION TITTLE */
+ div.tittle_section {
+    position: relative;
+    text-align: center;
+    color: #ffffff;
+    top: 20px;
+  } 
+img.tittle{
+    width: 100%;
+    height: 300px;
+}
+ h1.tittle{
+    position: absolute;
+    margin-top: -150px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 90px;
+    font-weight: bold;
+    font-family: pxp'Nunito', sans-serif;
+ }
+                        /* SECTION BLOG */
+div.blog{
+    margin-top: 100px;
+}
+div.blog_card{
+    margin-bottom: 30px;
+}
+h5.card-title{
+    text-align: center;
+}
+p.card-text{
+    text-align: justify;
+}
+a.link{
+    float: right;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+a.link:hover{
+    float: right;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+img.card-img-top{
+    height: 200px;
+}

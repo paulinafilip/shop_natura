@@ -1,0 +1,87 @@
+
+footer { 
+    background-color:#000000;
+    color:#FFF;
+    padding-top: 10px;
+    margin-top:30px;
+    box-shadow: 1px 2px 3px 4px	
+    #c2c2c2;
+}
+.tittle_section{
+    margin-left: 30px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    }
+                        /* Contact */
+.list_contact{
+    list-style: none;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+                        /* Menu */
+.list_menu{
+    list-style: none;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+#home{
+    font-weight: bolder;
+}
+                        /* link - menu */
+li a{
+    text-decoration: none;
+    color: #FFF;
+}
+li a:hover{
+    text-decoration: none;
+    color: #FFF;
+}
+li a:visited{
+    text-decoration: none;
+    color: #FFF;   
+}
+
+                        /* SocialMedia */
+.instagram{
+    width: 60px;
+    height: 60px;
+}
+.pinterest{
+    width: 60px;
+    height: 60px;
+}
+.facebook{
+    width: 60px;
+    height: 60px;
+}
+
+                        /* Responsive */
+@media(max-width: 575px){
+    footer{
+        height: 620px;
+    }
+    .social_media{
+        margin-top: 0px;
+        text-align: center;
+        margin-left: 30px;
+       }   
+}
+@media(min-width:576px){
+    footer{
+        height: 300px;
+    }
+    .social_media{
+        margin-top: 0px;
+        }
+}
+@media(min-width:768px){
+    footer{
+        padding-top: 20px;
+        height: 270px;
+    }
+    .social_media{
+        margin-top: 50px;
+        }
+}

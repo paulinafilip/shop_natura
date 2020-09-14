@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+}
+iframe{
+    width: 100%;
+    height: 300px;
+}
+.footer_home{
+    margin-top: 20px;
+}
+.tittle_section{
+text-align: center;
+font-weight: bolder;
+font-family: 'Nunito', sans-serif;
+font-size: xx-large;
+}
