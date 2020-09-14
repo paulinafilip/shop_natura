@@ -30,4 +30,7 @@ img{
         img{
           margin-top: 20px;
         }
+        h1.tittle_section{
+            font-size: 40px;
+        }
     }
