@@ -8,21 +8,18 @@ footer {
     #c2c2c2;
 }
 .tittle_section{
-    margin-left: 30px;
     font-family: 'Nunito', sans-serif;
     font-size: 20px;
     text-align: center;
     font-weight: bolder;
     }
                         /* Contact */
-.list_contact{
-    list-style: none;
+.contact_section{
     text-align: center;
     font-family: 'Nunito', sans-serif;
 }
                         /* Menu */
-.list_menu{
-    list-style: none;
+div.list_menu{
     text-align: center;
     font-family: 'Nunito', sans-serif;
 }
@@ -30,15 +27,15 @@ footer {
     font-weight: bolder;
 }
                         /* link - menu */
-li a{
+div a{
     text-decoration: none;
     color: #FFF;
 }
-li a:hover{
+div a:hover{
     text-decoration: none;
     color: #FFF;
 }
-li a:visited{
+div a:visited{
     text-decoration: none;
     color: #FFF;   
 }
@@ -63,9 +60,8 @@ li a:visited{
         height: 620px;
     }
     .social_media{
-        margin-top: 0px;
+        margin-top: 15px;
         text-align: center;
-        margin-left: 30px;
        }   
 }
 @media(min-width:576px){
