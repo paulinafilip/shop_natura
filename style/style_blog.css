@@ -46,3 +46,12 @@ a.link:hover{
 img.card-img-top{
     height: 200px;
 }
+                        /* Responsive */
+@media (min-width: 768px){
+    div.card{
+        width: 21rem;
+}
+}
+div.card{
+        width: 100%;
+} 
