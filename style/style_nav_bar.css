@@ -34,8 +34,8 @@
   text-decoration: none;
 }
 
-/* menu */
-
+/* menu  */
+/*menu content*/
 .header .menu {
   background-color: ffffff;
   clear: both;
@@ -44,7 +44,7 @@
 }
 
 /* menu icon */
-
+/*arrange the menu icon*/
 .header .menu-icon {
   cursor: pointer;
   display: block;
@@ -53,7 +53,7 @@
   position: relative;
   user-select: none;
 }
-
+/*create icon hamburger*/
 .header .menu-icon .navicon {
   background: #333;
   display: block;
@@ -82,7 +82,7 @@
   top: -10px;
 }
 
-/* menu btn */
+/* menu btn -behavior*/
 
 .header .menu-btn {
   display: none;
@@ -108,6 +108,7 @@
 .header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
   top: 0;
 }
+                        /* responsive */
 @media (min-width: 768px) {
   .header li {
     float: left;
