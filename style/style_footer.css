@@ -1,4 +1,3 @@
-
 footer { 
     background-color:#000000;
     color:#FFF;
@@ -23,7 +22,7 @@ div.list_menu{
     text-align: center;
     font-family: 'Nunito', sans-serif;
 }
-#home{
+.home{
     font-weight: bolder;
 }
                         /* link - menu */
